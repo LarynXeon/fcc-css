@@ -1,0 +1,49 @@
+*{
+    font-family: monospace;
+    border: red 1px dashed;
+    border-radius: 5px;
+}
+
+html{
+    background-color: aliceblue;
+}
+
+button, input, select, textarea{
+    font: inherit;
+}
+
+
+body{
+    font-size: 15px;
+    border: black 5px solid;
+    border-radius: 25px;
+}
+
+main{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    color: darkred;
+}
+
+p{
+    color: red;
+}
+
+.gray{
+    color: gray;
+}
+
+#second{
+    font-style: italic;
+}
+
+h1, h2{
+    color: blue;
+}
+
+.highlight{
+    text-transform: uppercase;
+    background-color: gold;
+}
